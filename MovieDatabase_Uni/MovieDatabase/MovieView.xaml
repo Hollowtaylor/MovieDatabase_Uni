@@ -1,0 +1,118 @@
+﻿<Window x:Class="MovieDatabase.MovieView"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:MovieDatabase"
+        mc:Ignorable="d"
+       Title="Movie Database" SizeToContent="WidthAndHeight">
+    <DockPanel Visibility="Visible" Background="SteelBlue">
+        <Menu DockPanel.Dock="Top">
+            <MenuItem Header="File" x:Name="FileMenu">
+                <MenuItem Header="New" x:Name="FileNewMenu" Click="FileNewMenu_Click"/>
+                <MenuItem Header="Load" x:Name="FileLoadMenu" Click="FileLoadMenu_Click"/>
+                <MenuItem Header="Save" x:Name="FileSaveMenu" Click="FileSaveMenu_Click"/>
+                <Separator/>
+                <MenuItem Header="Exit" x:Name="ExitMenu" Click="ExitMenu_Click"/>
+
+            </MenuItem>
+            <MenuItem Header="Edit" x:Name="EditMenu">
+                <MenuItem Header="Create" x:Name="EditCreateMenu" Click="EditCreateMenu_Click"/>
+                <MenuItem Header="Edit" x:Name="EditEditMenu" Click="EditEditMenu_Click"/>
+                <MenuItem Header="Delete" x:Name="EditDeleteMenu" Click="EditDeleteMenu_Click"/>
+            </MenuItem>
+            <MenuItem Header="View" x:Name="ViewMenu">
+                <MenuItem Header="By Year" x:Name="OrderByYear" Click="OrderByYear_Click"/>
+                <MenuItem Header="By Title" x:Name="OrderByTitle" Click="OrderByTitle_Click"/>
+                <MenuItem Header="By Duration" x:Name="OrderByDuration" Click="OrderByDuration_Click"/>
+            </MenuItem>
+            <MenuItem Header="About" x:Name="AboutMenu" Click="AboutMenu_Click" />
+        </Menu>
+
+
+        <Border Background="GhostWhite" BorderThickness="1" CornerRadius="8,8,3,3" Margin="0,5,0,10">
+            <WrapPanel Margin="25,14,24,49" Height="Auto" Width="Auto" Background="GhostWhite">
+
+                <StackPanel Orientation="Vertical">
+                    <StackPanel Orientation="Horizontal">
+                        <Grid HorizontalAlignment="Left" Width="500">
+                            <Grid.RowDefinitions>
+                                <RowDefinition Height="57*"/>
+                                <RowDefinition Height="57*"/>
+                                <RowDefinition Height="57*"/>
+                                <RowDefinition Height="57*"/>
+                                <RowDefinition Height="57"/>
+                                <RowDefinition Height="58*"/>
+                                <RowDefinition Height="57*"/>
+
+
+                            </Grid.RowDefinitions>
+                            <GroupBox Header="Title" Grid.Row="0" BorderThickness="0" Margin="0,0,0.4,0">
+                                <TextBox x:Name="title" Padding="1" Margin="10 5 0 5" />
+                            </GroupBox>
+
+                            <GroupBox Header="Duration (mins)" Grid.Row="1" HorizontalAlignment="Left" BorderThickness="0" Width="270">
+                                <TextBox x:Name="duration" Padding="1" Margin="10,5,-1.6,5" />
+                            </GroupBox>
+                            <GroupBox Header="Year" Grid.Row="1" HorizontalAlignment="Right" BorderThickness="0" Width="230">
+                                <TextBox x:Name="year" Padding="1" Margin="10,5, 1.5 ,5" />
+                            </GroupBox>
+
+
+                            <GroupBox Header="Budget (million $)" Grid.Row="2" HorizontalAlignment="Left" BorderThickness="0" Width="270">
+                                <TextBox x:Name="budget" Padding="1" Margin="10,5,-1.6,5" />
+                            </GroupBox>
+                            <local:RatingSelector x:Name="Rating" Grid.Row="2" HorizontalAlignment="Right" Width="231"/>
+
+                            <GroupBox Header="Director" Grid.Row="3" BorderThickness="0">
+                                <TextBox x:Name="director"  Padding="1" Margin="10 5 0 5" />
+                            </GroupBox>
+                            <local:GenreSelector x:Name="Genre" Grid.Row="4" Margin="18,0,0.4,0" />
+
+                            <GroupBox x:Name="URLGb" Header="Movie Poster URL" Grid.Row="5" BorderThickness="0">
+                                <TextBox x:Name="URLtxt" Padding="1" Margin="5"></TextBox>
+                            </GroupBox>
+                            <GroupBox x:Name="CastGb" Header="Cast(Add)" Grid.Row="6" BorderThickness="0">
+
+                                <TextBox x:Name="Casttxt" Padding="1" Margin="5"/>
+                            </GroupBox>
+
+                        </Grid>
+                        <Grid HorizontalAlignment="Right" Margin="0,0,0,5">
+                            <Grid.RowDefinitions>
+                                <RowDefinition Height="6*"/>
+                                <RowDefinition Height="6*"/>
+                                <RowDefinition Height="*"/>
+                                
+                            </Grid.RowDefinitions>
+                            <GroupBox Header="Poster" Grid.Row="0" BorderThickness="0">
+                                <Image  x:Name="Poster" MaxWidth="180" MaxHeight="150" Stretch="Uniform" RenderOptions.BitmapScalingMode="HighQuality" Margin="0,4,-6,-7"/>
+                            </GroupBox>
+                            <GroupBox Header="Cast" Grid.Row="1">
+                                <ListBox x:Name="CastList" Height="137" Margin="10,0"/>
+                            </GroupBox>
+                            <Button x:Name="CastAddButton" Grid.Row="2" Content="Add"  Click="CastAddButton_Click" Width="80" Height="22" Margin="5,5,100,0" />
+                            <Button x:Name="CastDelButton" Grid.Row="2" Content="Delete" Width="80" Click="CastDelButton_Click" Height="22" Margin="100 5 0 0"/>
+                           
+                        </Grid>
+                    </StackPanel>
+                    <Grid Height="22">
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition Width="*"/>
+                            <ColumnDefinition Width="*"/>
+                            <ColumnDefinition Width="*"/>
+                            <ColumnDefinition Width="*"/>
+                        </Grid.ColumnDefinitions>
+                        <Button x:Name="FirstButton" Grid.Column="0" Content="First" Width="190" Margin="10 0 0 0" Click="FirstButton_Click"/>
+                        <Button x:Name="PreviousButton" Grid.Column="1" Content="Previous" Width="190" Margin="5 0 0 0" Click="PreviousButton_Click"/>
+                        <Button x:Name="NextButton" Grid.Column="2" Content="Next" Width="190" Margin="5,0,0,0" Click="NextButton_Click"/>
+                        <Button x:Name= "LastButton" Grid.Column="3" Content="Last" Width="184" Margin="5,0,0,0" Click="LastButton_Click"/>
+                        <Button x:Name="SaveButton" Grid.Column="2" Content="Save" Width="190" Margin="5,0,0,0" Click="SaveButton_Click"/>
+                        <Button x:Name= "CancelButton" Grid.Column="3" Content="Cancel" Width="184" Margin="5,0,0,0" Click="CancelButton_Click"/>
+
+                    </Grid>
+                </StackPanel>
+            </WrapPanel>
+        </Border>
+    </DockPanel>
+</Window>

@@ -1,0 +1,116 @@
+U:\private\Visual programming\MovieDatabase - Partial\MovieDatabase - Partial\MovieDatabase\obj\Debug\MovieDatabase.csprojResolveAssemblyReference.cache
+U:\private\Visual programming\MovieDatabase - Partial\MovieDatabase - Partial\MovieDatabase\obj\Debug\Genre.g.cs
+U:\private\Visual programming\MovieDatabase - Partial\MovieDatabase - Partial\MovieDatabase\obj\Debug\Menu.g.cs
+U:\private\Visual programming\MovieDatabase - Partial\MovieDatabase - Partial\MovieDatabase\obj\Debug\MovieView.g.cs
+U:\private\Visual programming\MovieDatabase - Partial\MovieDatabase - Partial\MovieDatabase\obj\Debug\Rating.g.cs
+U:\private\Visual programming\MovieDatabase - Partial\MovieDatabase - Partial\MovieDatabase\obj\Debug\App.g.cs
+U:\private\Visual programming\MovieDatabase - Partial\MovieDatabase - Partial\MovieDatabase\obj\Debug\MovieDatabase_MarkupCompile.cache
+U:\private\Visual programming\MovieDatabase - Partial\MovieDatabase - Partial\MovieDatabase\obj\Debug\MovieDatabase_MarkupCompile.lref
+U:\private\Visual programming\MovieDatabase - Partial\MovieDatabase - Partial\MovieDatabase\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\csf16std\Desktop\MovieDatabase - Partial\MovieDatabase - Partial\MovieDatabase\obj\Debug\MovieDatabase.csprojResolveAssemblyReference.cache
+C:\Users\csf16std\Desktop\MovieDatabase - Partial\MovieDatabase - Partial\MovieDatabase\obj\Debug\Genre.g.cs
+C:\Users\csf16std\Desktop\MovieDatabase - Partial\MovieDatabase - Partial\MovieDatabase\obj\Debug\Menu.g.cs
+C:\Users\csf16std\Desktop\MovieDatabase - Partial\MovieDatabase - Partial\MovieDatabase\obj\Debug\MovieView.g.cs
+C:\Users\csf16std\Desktop\MovieDatabase - Partial\MovieDatabase - Partial\MovieDatabase\obj\Debug\Rating.g.cs
+C:\Users\csf16std\Desktop\MovieDatabase - Partial\MovieDatabase - Partial\MovieDatabase\obj\Debug\App.g.cs
+C:\Users\csf16std\Desktop\MovieDatabase - Partial\MovieDatabase - Partial\MovieDatabase\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\csf16std\Desktop\MovieDatabase - Partial\MovieDatabase - Partial\MovieDatabase\obj\Debug\MovieDatabase_MarkupCompile.cache
+C:\Users\csf16std\Desktop\MovieDatabase - Partial\MovieDatabase - Partial\MovieDatabase\obj\Debug\MovieDatabase_MarkupCompile.lref
+U:\private\Visual programming\Assignment 1.1\MovieDatabase - Partial\MovieDatabase - Partial\MovieDatabase\obj\Debug\MovieDatabase.csprojResolveAssemblyReference.cache
+U:\private\Visual programming\Assignment 1.1\MovieDatabase - Partial\MovieDatabase - Partial\MovieDatabase\obj\Debug\Genre.g.cs
+U:\private\Visual programming\Assignment 1.1\MovieDatabase - Partial\MovieDatabase - Partial\MovieDatabase\obj\Debug\Menu.g.cs
+U:\private\Visual programming\Assignment 1.1\MovieDatabase - Partial\MovieDatabase - Partial\MovieDatabase\obj\Debug\MovieView.g.cs
+U:\private\Visual programming\Assignment 1.1\MovieDatabase - Partial\MovieDatabase - Partial\MovieDatabase\obj\Debug\Rating.g.cs
+U:\private\Visual programming\Assignment 1.1\MovieDatabase - Partial\MovieDatabase - Partial\MovieDatabase\obj\Debug\App.g.cs
+U:\private\Visual programming\Assignment 1.1\MovieDatabase - Partial\MovieDatabase - Partial\MovieDatabase\obj\Debug\GeneratedInternalTypeHelper.g.cs
+U:\private\Visual programming\Assignment 1.1\MovieDatabase - Partial\MovieDatabase - Partial\MovieDatabase\obj\Debug\MovieDatabase_MarkupCompile.cache
+U:\private\Visual programming\Assignment 1.1\MovieDatabase - Partial\MovieDatabase - Partial\MovieDatabase\obj\Debug\MovieDatabase_MarkupCompile.lref
+U:\private\Visual programming\Assignment 1.1\MovieDatabase - Partial\MovieDatabase - Partial\MovieDatabase\obj\Debug\GenreSelector.g.cs
+U:\private\Visual programming\Assignment 1.1\MovieDatabase - Partial\MovieDatabase - Partial\MovieDatabase\obj\Debug\RatingSelector.g.cs
+U:\Year2\Assignment 1.1\MovieDatabase - Partial\MovieDatabase - Partial\MovieDatabase\obj\Debug\GenreSelector.g.cs
+U:\Year2\Assignment 1.1\MovieDatabase - Partial\MovieDatabase - Partial\MovieDatabase\obj\Debug\MovieView.g.cs
+U:\Year2\Assignment 1.1\MovieDatabase - Partial\MovieDatabase - Partial\MovieDatabase\obj\Debug\RatingSelector.g.cs
+U:\Year2\Assignment 1.1\MovieDatabase - Partial\MovieDatabase - Partial\MovieDatabase\obj\Debug\App.g.cs
+U:\Year2\Assignment 1.1\MovieDatabase - Partial\MovieDatabase - Partial\MovieDatabase\obj\Debug\GeneratedInternalTypeHelper.g.cs
+U:\Year2\Assignment 1.1\MovieDatabase - Partial\MovieDatabase - Partial\MovieDatabase\obj\Debug\MovieDatabase_MarkupCompile.cache
+U:\Year2\Assignment 1.1\MovieDatabase - Partial\MovieDatabase - Partial\MovieDatabase\obj\Debug\MovieDatabase_MarkupCompile.lref
+U:\Year2\Assignment 1.1\MovieDatabase - Partial\MovieDatabase - Partial\MovieDatabase\bin\Debug\MovieDatabase.exe.config
+U:\Year2\Assignment 1.1\MovieDatabase - Partial\MovieDatabase - Partial\MovieDatabase\bin\Debug\MovieDatabase.exe
+U:\Year2\Assignment 1.1\MovieDatabase - Partial\MovieDatabase - Partial\MovieDatabase\bin\Debug\MovieDatabase.pdb
+U:\Year2\Assignment 1.1\MovieDatabase - Partial\MovieDatabase - Partial\MovieDatabase\bin\Debug\Newtonsoft.Json.dll
+U:\Year2\Assignment 1.1\MovieDatabase - Partial\MovieDatabase - Partial\MovieDatabase\bin\Debug\Newtonsoft.Json.xml
+U:\Year2\Assignment 1.1\MovieDatabase - Partial\MovieDatabase - Partial\MovieDatabase\obj\Debug\GenreSelector.baml
+U:\Year2\Assignment 1.1\MovieDatabase - Partial\MovieDatabase - Partial\MovieDatabase\obj\Debug\MovieView.baml
+U:\Year2\Assignment 1.1\MovieDatabase - Partial\MovieDatabase - Partial\MovieDatabase\obj\Debug\RatingSelector.baml
+U:\Year2\Assignment 1.1\MovieDatabase - Partial\MovieDatabase - Partial\MovieDatabase\obj\Debug\MovieDatabase.g.resources
+U:\Year2\Assignment 1.1\MovieDatabase - Partial\MovieDatabase - Partial\MovieDatabase\obj\Debug\MovieDatabase.Properties.Resources.resources
+U:\Year2\Assignment 1.1\MovieDatabase - Partial\MovieDatabase - Partial\MovieDatabase\obj\Debug\MovieDatabase.csproj.GenerateResource.Cache
+U:\Year2\Assignment 1.1\MovieDatabase - Partial\MovieDatabase - Partial\MovieDatabase\obj\Debug\MovieDatabase.csproj.CoreCompileInputs.cache
+U:\Year2\Assignment 1.1\MovieDatabase - Partial\MovieDatabase - Partial\MovieDatabase\obj\Debug\MovieDatabase.exe
+U:\Year2\Assignment 1.1\MovieDatabase - Partial\MovieDatabase - Partial\MovieDatabase\obj\Debug\MovieDatabase.pdb
+C:\Users\csf16std\Desktop\Assignment 1.1\MovieDatabase - Partial\MovieDatabase - Partial\MovieDatabase\obj\Debug\GenreSelector.g.cs
+C:\Users\csf16std\Desktop\Assignment 1.1\MovieDatabase - Partial\MovieDatabase - Partial\MovieDatabase\obj\Debug\MovieView.g.cs
+C:\Users\csf16std\Desktop\Assignment 1.1\MovieDatabase - Partial\MovieDatabase - Partial\MovieDatabase\obj\Debug\RatingSelector.g.cs
+C:\Users\csf16std\Desktop\Assignment 1.1\MovieDatabase - Partial\MovieDatabase - Partial\MovieDatabase\obj\Debug\App.g.cs
+C:\Users\csf16std\Desktop\Assignment 1.1\MovieDatabase - Partial\MovieDatabase - Partial\MovieDatabase\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\csf16std\Desktop\Assignment 1.1\MovieDatabase - Partial\MovieDatabase - Partial\MovieDatabase\obj\Debug\MovieDatabase_MarkupCompile.cache
+C:\Users\csf16std\Desktop\Assignment 1.1\MovieDatabase - Partial\MovieDatabase - Partial\MovieDatabase\obj\Debug\MovieDatabase_MarkupCompile.lref
+C:\Users\csf16std\Desktop\Assignment 1.1\MovieDatabase - Partial\MovieDatabase - Partial\MovieDatabase\obj\Debug\MovieDatabase.exe
+C:\Users\csf16std\Desktop\Assignment 1.1\MovieDatabase - Partial\MovieDatabase - Partial\MovieDatabase\obj\Debug\MovieDatabase.pdb
+C:\Users\csf16std\Desktop\Assignment 1.1\MovieDatabase - Partial\MovieDatabase - Partial\MovieDatabase\bin\Debug\MovieDatabase.exe.config
+C:\Users\csf16std\Desktop\Assignment 1.1\MovieDatabase - Partial\MovieDatabase - Partial\MovieDatabase\bin\Debug\MovieDatabase.exe
+C:\Users\csf16std\Desktop\Assignment 1.1\MovieDatabase - Partial\MovieDatabase - Partial\MovieDatabase\bin\Debug\MovieDatabase.pdb
+C:\Users\csf16std\Desktop\Assignment 1.1\MovieDatabase - Partial\MovieDatabase - Partial\MovieDatabase\bin\Debug\Newtonsoft.Json.dll
+C:\Users\csf16std\Desktop\Assignment 1.1\MovieDatabase - Partial\MovieDatabase - Partial\MovieDatabase\bin\Debug\Newtonsoft.Json.xml
+C:\Users\csf16std\Desktop\Assignment 1.1\MovieDatabase - Partial\MovieDatabase - Partial\MovieDatabase\obj\Debug\GenreSelector.baml
+C:\Users\csf16std\Desktop\Assignment 1.1\MovieDatabase - Partial\MovieDatabase - Partial\MovieDatabase\obj\Debug\MovieView.baml
+C:\Users\csf16std\Desktop\Assignment 1.1\MovieDatabase - Partial\MovieDatabase - Partial\MovieDatabase\obj\Debug\RatingSelector.baml
+C:\Users\csf16std\Desktop\Assignment 1.1\MovieDatabase - Partial\MovieDatabase - Partial\MovieDatabase\obj\Debug\MovieDatabase.g.resources
+C:\Users\csf16std\Desktop\Assignment 1.1\MovieDatabase - Partial\MovieDatabase - Partial\MovieDatabase\obj\Debug\MovieDatabase.Properties.Resources.resources
+C:\Users\csf16std\Desktop\Assignment 1.1\MovieDatabase - Partial\MovieDatabase - Partial\MovieDatabase\obj\Debug\MovieDatabase.csproj.GenerateResource.Cache
+C:\Users\csf16std\Desktop\Assignment 1.1\MovieDatabase - Partial\MovieDatabase - Partial\MovieDatabase\obj\Debug\MovieDatabase.csproj.CoreCompileInputs.cache
+U:\Year2\Assignment 1.1\MovieDatabase - Partial\MovieDatabase - Partial\MovieDatabase\obj\Debug\MovieDatabase.csprojResolveAssemblyReference.cache
+C:\Users\csf16std\Downloads\Assignment_1.1 (1)\Assignment 1.1\MovieDatabase - Partial\MovieDatabase - Partial\MovieDatabase\bin\Debug\MovieDatabase.exe.config
+C:\Users\csf16std\Downloads\Assignment_1.1 (1)\Assignment 1.1\MovieDatabase - Partial\MovieDatabase - Partial\MovieDatabase\bin\Debug\MovieDatabase.exe
+C:\Users\csf16std\Downloads\Assignment_1.1 (1)\Assignment 1.1\MovieDatabase - Partial\MovieDatabase - Partial\MovieDatabase\bin\Debug\MovieDatabase.pdb
+C:\Users\csf16std\Downloads\Assignment_1.1 (1)\Assignment 1.1\MovieDatabase - Partial\MovieDatabase - Partial\MovieDatabase\bin\Debug\Newtonsoft.Json.dll
+C:\Users\csf16std\Downloads\Assignment_1.1 (1)\Assignment 1.1\MovieDatabase - Partial\MovieDatabase - Partial\MovieDatabase\bin\Debug\Newtonsoft.Json.xml
+C:\Users\csf16std\Downloads\Assignment_1.1 (1)\Assignment 1.1\MovieDatabase - Partial\MovieDatabase - Partial\MovieDatabase\obj\Debug\GenreSelector.g.cs
+C:\Users\csf16std\Downloads\Assignment_1.1 (1)\Assignment 1.1\MovieDatabase - Partial\MovieDatabase - Partial\MovieDatabase\obj\Debug\MovieView.g.cs
+C:\Users\csf16std\Downloads\Assignment_1.1 (1)\Assignment 1.1\MovieDatabase - Partial\MovieDatabase - Partial\MovieDatabase\obj\Debug\RatingSelector.g.cs
+C:\Users\csf16std\Downloads\Assignment_1.1 (1)\Assignment 1.1\MovieDatabase - Partial\MovieDatabase - Partial\MovieDatabase\obj\Debug\App.g.cs
+C:\Users\csf16std\Downloads\Assignment_1.1 (1)\Assignment 1.1\MovieDatabase - Partial\MovieDatabase - Partial\MovieDatabase\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\csf16std\Downloads\Assignment_1.1 (1)\Assignment 1.1\MovieDatabase - Partial\MovieDatabase - Partial\MovieDatabase\obj\Debug\MovieDatabase_MarkupCompile.cache
+C:\Users\csf16std\Downloads\Assignment_1.1 (1)\Assignment 1.1\MovieDatabase - Partial\MovieDatabase - Partial\MovieDatabase\obj\Debug\MovieDatabase_MarkupCompile.lref
+C:\Users\csf16std\Downloads\Assignment_1.1 (1)\Assignment 1.1\MovieDatabase - Partial\MovieDatabase - Partial\MovieDatabase\obj\Debug\GenreSelector.baml
+C:\Users\csf16std\Downloads\Assignment_1.1 (1)\Assignment 1.1\MovieDatabase - Partial\MovieDatabase - Partial\MovieDatabase\obj\Debug\MovieView.baml
+C:\Users\csf16std\Downloads\Assignment_1.1 (1)\Assignment 1.1\MovieDatabase - Partial\MovieDatabase - Partial\MovieDatabase\obj\Debug\RatingSelector.baml
+C:\Users\csf16std\Downloads\Assignment_1.1 (1)\Assignment 1.1\MovieDatabase - Partial\MovieDatabase - Partial\MovieDatabase\obj\Debug\MovieDatabase.g.resources
+C:\Users\csf16std\Downloads\Assignment_1.1 (1)\Assignment 1.1\MovieDatabase - Partial\MovieDatabase - Partial\MovieDatabase\obj\Debug\MovieDatabase.Properties.Resources.resources
+C:\Users\csf16std\Downloads\Assignment_1.1 (1)\Assignment 1.1\MovieDatabase - Partial\MovieDatabase - Partial\MovieDatabase\obj\Debug\MovieDatabase.csproj.GenerateResource.Cache
+C:\Users\csf16std\Downloads\Assignment_1.1 (1)\Assignment 1.1\MovieDatabase - Partial\MovieDatabase - Partial\MovieDatabase\obj\Debug\MovieDatabase.csproj.CoreCompileInputs.cache
+C:\Users\csf16std\Downloads\Assignment_1.1 (1)\Assignment 1.1\MovieDatabase - Partial\MovieDatabase - Partial\MovieDatabase\obj\Debug\MovieDatabase.exe
+C:\Users\csf16std\Downloads\Assignment_1.1 (1)\Assignment 1.1\MovieDatabase - Partial\MovieDatabase - Partial\MovieDatabase\obj\Debug\MovieDatabase.pdb
+C:\Users\csf16std\Downloads\Assignment_1.1 (1)\Assignment 1.1\MovieDatabase - Partial\MovieDatabase - Partial\MovieDatabase\obj\Debug\MovieDatabase.csprojResolveAssemblyReference.cache
+C:\Users\csf16std\Desktop\Assignment_1.1 (1)\Assignment 1.1\MovieDatabase - Partial\MovieDatabase - Partial\MovieDatabase\bin\Debug\MovieDatabase.exe.config
+C:\Users\csf16std\Desktop\Assignment_1.1 (1)\Assignment 1.1\MovieDatabase - Partial\MovieDatabase - Partial\MovieDatabase\bin\Debug\MovieDatabase.exe
+C:\Users\csf16std\Desktop\Assignment_1.1 (1)\Assignment 1.1\MovieDatabase - Partial\MovieDatabase - Partial\MovieDatabase\bin\Debug\MovieDatabase.pdb
+C:\Users\csf16std\Desktop\Assignment_1.1 (1)\Assignment 1.1\MovieDatabase - Partial\MovieDatabase - Partial\MovieDatabase\bin\Debug\Newtonsoft.Json.dll
+C:\Users\csf16std\Desktop\Assignment_1.1 (1)\Assignment 1.1\MovieDatabase - Partial\MovieDatabase - Partial\MovieDatabase\bin\Debug\Newtonsoft.Json.xml
+C:\Users\csf16std\Desktop\Assignment_1.1 (1)\Assignment 1.1\MovieDatabase - Partial\MovieDatabase - Partial\MovieDatabase\obj\Debug\MovieDatabase.csprojResolveAssemblyReference.cache
+C:\Users\csf16std\Desktop\Assignment_1.1 (1)\Assignment 1.1\MovieDatabase - Partial\MovieDatabase - Partial\MovieDatabase\obj\Debug\GenreSelector.g.cs
+C:\Users\csf16std\Desktop\Assignment_1.1 (1)\Assignment 1.1\MovieDatabase - Partial\MovieDatabase - Partial\MovieDatabase\obj\Debug\MovieView.g.cs
+C:\Users\csf16std\Desktop\Assignment_1.1 (1)\Assignment 1.1\MovieDatabase - Partial\MovieDatabase - Partial\MovieDatabase\obj\Debug\RatingSelector.g.cs
+C:\Users\csf16std\Desktop\Assignment_1.1 (1)\Assignment 1.1\MovieDatabase - Partial\MovieDatabase - Partial\MovieDatabase\obj\Debug\App.g.cs
+C:\Users\csf16std\Desktop\Assignment_1.1 (1)\Assignment 1.1\MovieDatabase - Partial\MovieDatabase - Partial\MovieDatabase\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\csf16std\Desktop\Assignment_1.1 (1)\Assignment 1.1\MovieDatabase - Partial\MovieDatabase - Partial\MovieDatabase\obj\Debug\MovieDatabase_MarkupCompile.cache
+C:\Users\csf16std\Desktop\Assignment_1.1 (1)\Assignment 1.1\MovieDatabase - Partial\MovieDatabase - Partial\MovieDatabase\obj\Debug\MovieDatabase_MarkupCompile.lref
+C:\Users\csf16std\Desktop\Assignment_1.1 (1)\Assignment 1.1\MovieDatabase - Partial\MovieDatabase - Partial\MovieDatabase\obj\Debug\GenreSelector.baml
+C:\Users\csf16std\Desktop\Assignment_1.1 (1)\Assignment 1.1\MovieDatabase - Partial\MovieDatabase - Partial\MovieDatabase\obj\Debug\MovieView.baml
+C:\Users\csf16std\Desktop\Assignment_1.1 (1)\Assignment 1.1\MovieDatabase - Partial\MovieDatabase - Partial\MovieDatabase\obj\Debug\RatingSelector.baml
+C:\Users\csf16std\Desktop\Assignment_1.1 (1)\Assignment 1.1\MovieDatabase - Partial\MovieDatabase - Partial\MovieDatabase\obj\Debug\MovieDatabase.g.resources
+C:\Users\csf16std\Desktop\Assignment_1.1 (1)\Assignment 1.1\MovieDatabase - Partial\MovieDatabase - Partial\MovieDatabase\obj\Debug\MovieDatabase.Properties.Resources.resources
+C:\Users\csf16std\Desktop\Assignment_1.1 (1)\Assignment 1.1\MovieDatabase - Partial\MovieDatabase - Partial\MovieDatabase\obj\Debug\MovieDatabase.csproj.GenerateResource.Cache
+C:\Users\csf16std\Desktop\Assignment_1.1 (1)\Assignment 1.1\MovieDatabase - Partial\MovieDatabase - Partial\MovieDatabase\obj\Debug\MovieDatabase.csproj.CoreCompileInputs.cache
+C:\Users\csf16std\Desktop\Assignment_1.1 (1)\Assignment 1.1\MovieDatabase - Partial\MovieDatabase - Partial\MovieDatabase\obj\Debug\MovieDatabase.exe
+C:\Users\csf16std\Desktop\Assignment_1.1 (1)\Assignment 1.1\MovieDatabase - Partial\MovieDatabase - Partial\MovieDatabase\obj\Debug\MovieDatabase.pdb

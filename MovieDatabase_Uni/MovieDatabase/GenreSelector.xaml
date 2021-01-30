@@ -1,0 +1,22 @@
+﻿<UserControl x:Class="MovieDatabase.GenreSelector"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:MovieDatabase"
+             mc:Ignorable="d" 
+             d:DesignHeight="40" d:DesignWidth="530">
+    <GroupBox Header="Genre" >
+        <WrapPanel>
+            <CheckBox x:Name="CbComedy" Content="Comedy" Margin="1" />
+            <CheckBox x:Name="CbRomance" Content="Romance" Margin="1" />
+            <CheckBox x:Name="CbAction" Content="Action" Margin="1" />
+            <CheckBox x:Name="CbThriller" Content="Thriller" Margin="1" />
+            <CheckBox x:Name="CbFamily" Content="Family" Margin="1" />
+            <CheckBox x:Name="CbHorror" Content="Horror" Margin="1"/>
+            <CheckBox x:Name="CbWestern" Content="Western" Margin="1"/>
+            <CheckBox x:Name="CbScifi" Content="Scifi" Margin="1"/>
+            <CheckBox x:Name="CbWar" Content="War" Margin="1"/>
+        </WrapPanel>
+    </GroupBox>
+</UserControl>
